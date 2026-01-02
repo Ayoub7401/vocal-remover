@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node.js
+node_modules/
+dist/
+
+# Application
+temp/
+backend/temp/
+api/temp/
+__pycache__
+.DS_Store
