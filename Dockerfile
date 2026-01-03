@@ -13,6 +13,7 @@ FROM python:3.12-slim
 RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
+ENV PYTHONPATH=/app/backend
 
 # Install Python dependencies
 COPY backend/requirements.txt .
@@ -29,4 +30,5 @@ EXPOSE 8000
 
 # Run command
 # We run from /app, so the module is backend.main
+ENV PYTHONPATH=/app/backend
 CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
