@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import PrivacyPolicy from './pages/PrivacyPolicy';
+import PrivacyPolicy from './pages/LegalDoc';
 import TermsOfService from './pages/TermsOfService';
 import Footer from './components/Footer';
 
