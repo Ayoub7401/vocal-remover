@@ -52,7 +52,7 @@ const TermsOfService = () => {
                     <strong>Shady's Business LLC</strong><br />
                     30 N Gould St Ste R<br />
                     Sheridan, WY 82801 USA<br />
-                    Email: ayoubechchadi@protonmail.com
+                    Email: contact@bboymusic.com
                 </p>
             </section>
         </div>

@@ -38,7 +38,7 @@ const PrivacyPolicy = () => {
             <section className="mb-8">
                 <h2 className="text-2xl font-semibold mb-4 text-purple-400">5. Your Rights (GDPR/CCPA)</h2>
                 <p>
-                    Depending on your location, you may have rights to access, correct, or delete your personal data. Contact us at ayoubechchadi@protonmail.com to exercise these rights.
+                    Depending on your location, you may have rights to access, correct, or delete your personal data. Contact us at contact@bboymusic.com to exercise these rights.
                 </p>
             </section>
 
@@ -46,7 +46,7 @@ const PrivacyPolicy = () => {
                 <h2 className="text-2xl font-semibold mb-4 text-purple-400">6. Contact Us</h2>
                 <p>
                     If you have questions about this policy, please contact us at:<br />
-                    <strong>Email:</strong> ayoubechchadi@protonmail.com<br />
+                    <strong>Email:</strong> contact@bboymusic.com<br />
                     <strong>Address:</strong> 30 N Gould St Ste R, Sheridan, WY 82801 USA
                 </p>
             </section>
